@@ -11,3 +11,4 @@ router.get('/', function(req, res) {
 });
 
 module.exports = router;
+//SET DEBUG=ha_nodeJS:* & npm run devstart
